@@ -1,0 +1,14 @@
+{
+  "name": "package-pub-test",
+  "version": "1.0.0",
+  "description": "Creating Simple package for nodejs",
+  "main": "lab3.js",
+  "scripts": {
+    "test": "node lab3.js"
+  },
+  "author": "Anitha",
+  "license": "ISC",
+  "dependencies": {
+    "package-pub-test": "^1.0.0"
+  }
+}
